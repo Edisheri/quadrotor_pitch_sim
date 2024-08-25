@@ -1,0 +1,13 @@
+I: 0.02
+torque_coefficient: 1.0
+setpoint: 1.0
+initial_conditions:
+  - 0.0
+  - 0.0
+t_span:
+  - 0
+  - 10
+t_eval: 
+  - 0
+  - 0.01
+  - 10
